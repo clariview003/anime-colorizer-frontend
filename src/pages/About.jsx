@@ -21,7 +21,7 @@
       <section className="grid gap-4 sm:grid-cols-2">
         <div className="surface p-6">
           <h3 className="font-semibold text-slate-900 dark:text-white">Team Members</h3>
-          <p className="mt-2 text-slate-600 dark:text-slate-300">Product Designer, Frontend Engineer, ML Engineer</p>
+          <p className="mt-2 text-slate-600 dark:text-slate-300">Vyankatesh, Omkumar, Shravani, Prabhu</p>
         </div>
         <div className="surface p-6">
           <h3 className="font-semibold text-slate-900 dark:text-white">Technologies</h3>
